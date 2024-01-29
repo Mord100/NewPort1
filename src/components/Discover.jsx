@@ -14,13 +14,9 @@ const Discover = () => {
           what makes their business tick.
         </p>
         <p>
-          Our team of private investigators shadow the company director’s for
-          several weeks while our account managers focus on going through their
-          trash. Our senior security experts then perform social engineering
-          hacks to gain access to their{" "}
+          Something Something Smething{" "}
           <strong className="font-semibold text-neutral-950">business</strong>
-          accounts — handing that information over to our forensic accounting
-          team.
+          Something Something Smething
         </p>
         <p>
           Once the full audit is complete, we report back with a comprehensive
@@ -34,10 +30,8 @@ const Discover = () => {
       <TagList className="mt-4">
         <TagListItem>In-depth questionnaires</TagListItem>
         <TagListItem>Feasibility studies</TagListItem>
-        <TagListItem>Blood samples</TagListItem>
         <TagListItem>Employee surveys</TagListItem>
         <TagListItem>Proofs-of-concept</TagListItem>
-        <TagListItem>Forensic audit</TagListItem>
       </TagList>
     </Section>
   );
